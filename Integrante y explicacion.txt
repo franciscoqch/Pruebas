@@ -3,5 +3,4 @@ Nombre:Francisco Jose Qintero Chiquillo
 Cod:191725
 
 
-La carpeta pruebas contiene todo lo principal de la pagina web
-en si esa carpeta es la misma pagina web
+
