@@ -1,6 +1,7 @@
 Base de datos grupo A
 Nombre:Francisco Jose Qintero Chiquillo
 Cod:191725
+En el repositorio se encuentra el backup
 
 
 
